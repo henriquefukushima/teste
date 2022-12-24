@@ -6,3 +6,4 @@ Instruções para baixar:
 
 teste de conflito
 teste de conflito 2
+teste de conflito 3
