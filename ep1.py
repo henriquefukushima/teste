@@ -1,1 +1,1 @@
-print("Hello Férias")
+print("Primeiro repositório, teste.")
